@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2021-10-11 12:35">
+    <shop>
+        <name>The best shop</name>
+        <company>best.shop</company>
+        <currencies>
+            <currency id="RUB" rate="1"/></currencies>
+            <categories>
+                <category id="1">Домашняя медтехника</category>
+                <category id="325" parentId="1">Механические тонометры</category>
+                <category id="326" parentId="324">Электронные тонометры</category>                
+                <category id="330" parentId="329">Ингаляторы и небулайзеры для детей</category>
+                <category id="1665" parentId="329">Компактные ингаляторы и небулайзеры</category>
+                <category id="339" parentId="331">Отсасыватели передвижные</category>
+                <category id="313">Кислородное оборудование</category>
+                <category id="342" parentId="313">Пульсоксиметры </category>
+                <category id="358" parentId="355">Кислородные концентраторы с производительностью более 5 л/мин</category>
+                <category id="359" parentId="355">Компактные кислородные концентраторы</category>
+                <category id="1700" parentId="355">Кислородные концентраторы с производительностью до 10 л/мин</category>
+                <category id="322">Профессиональная медтехника</category>
+                <category id="550" parentId="322">Медицинское оборудование</category>
+                <category id="1692" parentId="552">Комплектующие и запчасти для хирургических отсасывателей</category>
+                <category id="554" parentId="550">Дозаторы шприцевые и насосы инфузионные</category>
+                <category id="1640" parentId="554">Дозаторы шприцевые</category>
+                <category id="1641" parentId="554">Насосы инфузионные</category>
+                <category id="1642" parentId="554">Уничтожители игл и шприцев</category>
+                <category id="1649">Аппараты физиотерапии</category>
+                <category id="345" parentId="1649">Магнитотерапия</category>
+                <category id="1486" parentId="1649">УФО </category>
+            </categories>
+            <offers>
+                <offer id="1" group_id="1" available="true">
+                    <currencyId>RUB</currencyId>
+                    <categoryId>355</categoryId>
+                    <price>24900</price>
+                    <oldprice>27490</oldprice>
+                    <name>Концентратор кислорода Армед 7F-1L (кислородный концентратор)</name>                    
+                    <url>https://bh.market/product/koncentrator-kisloroda-armed-7f-1l-kislorodnyi-koncentrator</url>                    
+                    <dimensions>43/37/60</dimensions>
+                    <weight>18</weight>
+                    <vendorCode>1011201</vendorCode>
+                    <count>252</count>
+                    <vendor>Армед</vendor>
+                    <country>Россия</country>
+                    <picture>https://back.bh.market/storage/cloud/master_products/67246/koncentrator-kisloroda-armed-7f-1l-kislorodnyi-koncentrator.webp</picture>
+                    <picture>https://back.bh.market/storage/cloud/master_products/67246/koncentrator-kisloroda-armed-7f-1l-kislorodnyi-koncentrator_1.webp</picture>
+                    <param name="Частота сети" unit="Гц">50</param>
+                    <param name="Питание сети" unit="В">220 ± 22</param>
+                    <param name="Уровень шума (не более)" unit="дБ">46</param>
+                    <param name="Цвет корпуса">Белый</param>
+                    <manufacturer_warranty>true</manufacturer_warranty>                    
+                    <document>https://back.bh.market/uploads/certificates/FSZ-2010-06858--1.jpg</document>
+                    <document>https://back.bh.market/uploads/certificates/FSZ-2010-06858--2.jpg</document>
+                    <video>https://youtu.be/MwuhRUaCTig</video>
+                    <video>https://youtu.be/2jojeFEMUcU</video>
+                    <description>
+                        <![CDATA[
+                            Отсутствие достаточного количества кислорода в воздухе – частая причина бессонницы, головокружения, повышенной утомляемости и многих серьезных заболеваний. Кислородный концентратор Армед 7F-1L - обновленная модель, предназначенная для проведения профилактической кислородной терапии в домашних условиях.
+                        ]]>
+                    </description>
+                    <description_full>
+                        <![CDATA[
+                            <p>Отсутствие достаточного количества кислорода в воздухе – частая причина бессонницы, головокружения, повышенной утомляемости и многих серьезных заболеваний. </p>
+                            <p>Кислородный концентратор Армед 7F-1L - обновленная модель, предназначенная для проведения профилактической кислородной терапии в домашних условиях.</p>
+                        ]]>
+                    </description_full>
+                </offer>
+               
+                <offer id="41183" group_id="39832" available="false">
+                    <currencyId>RUB</currencyId>
+                    <categoryId>1699</categoryId>
+                    <price>235</price>
+                    <oldprice>400</oldprice>
+                    <name>Лампа ультрафиолетовая Армед F15 T8, 1 шт Индивидуальная упаковка</name>
+                    <vendorCode>1470401</vendorCode>
+                    <store>false</store>
+                    <url>https://bh.market/product/lampa-ultrafioletovaya-armed-f15-t8-1-st-individualnaya-upakovka</url>
+                    <sales_notes>Наличный и безналичный расчет.</sales_notes>              
+                    <picture>https://back.bh.market/storage/cloud/master_products/67263/lampa-ultrafioletovaya-armed-f15-t8-1-st-individualnaya-upakovka.webp</picture>
+                    <picture>https://back.bh.market/storage/cloud/master_products/67263/lampa-ultrafioletovaya-armed-f15-t8-1-st-individualnaya-upakovka_1.webp</picture>
+                    <count>20</count>
+                    <vendor>Армед</vendor>
+                    <country>Россия</country>
+                    <description>
+                        <![CDATA[
+                            Бактерицидная лампа F15 T8 в индивидуальной упаковке излучает коротковолновое ультрафиолетовое излучение и обладает широким спектром действия на микроорганизмы, включая бактерии, вирусы и простейшие организмы.
+                        ]]>
+                    </description>
+                    <description_full>
+                        <![CDATA[
+                            <p>Бактерицидная лампа F15 T8 в индивидуальной упаковке излучает коротковолновое ультрафиолетовое&nbsp;излучение и обладает широким спектром действия на микроорганизмы, включая бактерии, вирусы и простейшие организмы. </p>
+                            <p>Лампа состоит из трубчатого стеклянного корпуса с токопроводящими цоколями по краям, применяется в установках для обеззараживания воздуха и поверхностей. </p>
+                            <p>Пластиковый цоколь позволяет увеличить прочность лампы при транспортировке и избежать повреждений, лампа обладает большей устойчивостью к механическим воздействиям.</p>
+                            <p><strong>Лампа подходит для моделей&nbsp;рециркуляторов:</strong> CH111-115 (пластик);&nbsp;1-115 ПТ;&nbsp;2-115; CH311-115; CH511-115; CH111-115 М/1; CH211-115 М/1; CH311-115 М/1. Не допускается прямое излучение ламп в присутствии людей, использование бактерицидных ламп требует строгого соблюдения мер безопасности!</p>
+                        ]]>
+                    </description_full>
+                    <param name="Диаметр газоразрядной трубки" unit="см">20</param>
+                    <param name="Номинальное напряжение" unit="вольт">55</param>
+                    <param name="Полезный срок службы" unit="час">8000</param>
+                </offer>
+                
+                <offer id="17865" group_id="1527" available="true">
+                    <currencyId>RUB</currencyId>
+                    <categoryId>355</categoryId>
+                    <price>340000</price>
+                    <oldprice>340000</oldprice>
+                    <name>Surgybone SB300 - ультразвуковой хирургический физиодиспенсер</name>
+                    <url>https://bh.market/product/surgybone-sb300-ultrazvukovoi-xirurgiceskii-fiziodispenser_1</url>
+                    <dimensions>43/37/60</dimensions>
+                    <weight>3500</weight>
+                    <vendorCode>S-11055</vendorCode>
+                    <count>40</count>
+                    <vendor>Surgybone</vendor>
+                    <country>Италия</country>
+                    <picture>https://back.bh.market/storage/cloud/master_products/64000/surgybone-sb300-ultrazvukovoi-xirurgiceskii-fiziodispenser.webp</picture>
+                    <param name="Напряжение" unit="В">220</param>
+                    <param name="Частота" unit="Гц">50 / 60</param>
+                    <param name="Мощность" unit="Вт">230</param>
+                    <manufacturer_warranty>true</manufacturer_warranty>                    
+                    <document>https://back.bh.market/uploads/certificates/FSZ-2010-06858--1.jpg</document>
+                    <video>https://youtu.be/MwuhRUaCTig</video>
+                    <description>
+                        <![CDATA[
+                            Surgybone SB300 предназначен для применения в области стоматологической хирургии, пародонтологии и общей хирургии, а также периодонтальной хирургии, хирургической имплантологии, оральной хирургии, челюстно-лицевой хирургии, костной хирургии
+                        ]]>
+                    </description>
+                    <description_full>
+                        <![CDATA[
+                            <p>Surgybone SB300 предназначен для применения в области стоматологической хирургии, пародонтологии и общей хирургии, а также периодонтальной хирургии, хирургической имплантологии, оральной хирургии, челюстно-лицевой хирургии, костной хирургии.</p>
+                            <h3>Преимущества:</h3>
+                            <ul>
+                                <li>Технология, основанная на ультразвуковых частотах, позволяет осуществлять остеотомию большой точности, с постоянным контролем глубины и длины обработки.</li>
+                                <li>Широкий жидкокристаллический дисплей позволяет визуализировать установленные данные.</li>
+                                <li>Регулирование мощности для различных инструментов режущих, не режущих, полировальных, эндодонтических с максимальной точностью разрезания без ущерба тканям, избегая некроза перегревом.</li>
+                                <li>Прибор оснащен встроенным перистальтическим насосом для подачи стерильного охлаждающего физраствора в зону резания.</li>
+                                <li>Мощность и частота SURGYBONE минимизируют риск повреждения мягких тканей, оставаясь эффективными для твердых тканей.</li>
+                                <li>Материал, используемый для производства пьезоэлектрических насадок, прочный и позволяет провести не менее 20000 циклов стерилизации.</li>
+                                <li>Непрерывная работа в течение 8 часов.</li>
+                            </ul>
+                            <h3>Комплектация:</h3>
+                            <ol>
+                                <li>Пульт управления с дисплеем</li>
+                                <li>Пневматическая педаль управления</li>
+                                <li>Пьезоэлектрический наконечник с кабелем</li>
+                                <li>Консоль с помпой, контейнер-автоклав</li>
+                                <li>Металлический держатель наконечника</li>
+                                <li>Металлический держатель контейнера с физиологическим раствором</li>
+                                <li>Контейнер с насадками (6 штук)</li>
+                            </ol>
+                            <p>Дополнительно можно приобрести до 60 различных насадок.</p>
+                        ]]>
+                    </description_full>
+                </offer>
+               
+                <offer id="4134" group_id="3856" available="true">
+                    <currencyId>RUB</currencyId>
+                    <categoryId>557</categoryId>
+                    <price>650</price>
+                    <oldprice>700</oldprice>
+                    <name>Экран защитный для лица, многоразовый kristident кристидент</name>
+                    <vendorCode>20010</vendorCode>
+                    <url>https://bh.market/product/ekran-zashhitnyi-dlya-lica-mnogorazovyi-kristident?</url>                    
+                    <picture>https://back.bh.market/storage/cloud/master_products/67025/ekran-zashhitnyi-dlya-lica-mnogorazovyi-kristident.webp</picture>
+                    <manufacturer_warranty>true</manufacturer_warranty>
+                    <dimensions>17/14/18</dimensions>
+                    <weight>200</weight>
+                    <country>Россия</country>
+                    <vendor>Кристи</vendor>                 
+                    <count>10</count>
+                    <description>
+                        <![CDATA[
+                            Обеспечивает полную индивидуальную защиту лица (нос, рот, глаза) медицинского персонала…
+                        ]]>
+                    </description>
+                    <description_full>
+                        <![CDATA[
+                            <p><strong>Комплект поставки:&nbsp;&nbsp;1 оправа + 5 щитков для лица</strong></p>
+                            <ul>
+                                <li>Обеспечивает полную индивидуальную защиту лица (нос, рот, глаза) медицинского персонала от прямого и бокового попадания брызг жидкостей, механических частиц и обладает высокой прозрачностью.</li>
+                                <li>Используется в стоматологии, в маникюрном и педикюрном сервисе, а также в косметологии.</li>
+                                <li>Защитные щитки экранов изготавливаются из прозрачного экологически чистого пластика, обеспечивают отличную видимость, устойчивы к царапинам и не меняют цвет при воздействии дневного света.</li>
+                            </ul>
+
+                        ]]>
+                    </description_full>
+                </offer>
+
+               <offer id="4134" group_id="3856" available="true">
+                    <currencyId>RUB</currencyId>
+                    <categoryId>55745</categoryId>
+                    <price>254 000</price>
+                    <name>Аппарат фрезеровочный зуботехнический Silfradent Minicruise 420 JM</name>
+                    <vendorCode>2965.45.44</vendorCode>
+                    <url>https://bh.market/product/apparat-frezerovocnyi-zubotexniceskii-silfradent-minicruise-420-jm-italiya</url>
+                    <picture>https://back.bh.market/storage/cloud/master_products/24351/apparat-frezerovocnyi-zubotexniceskii-silfradent-minicruise-420-jm-italiya.webp</picture>
+                    <manufacturer_warranty>true</manufacturer_warranty>
+                    <dimensions>280/250/360</dimensions>
+                    <weight>13000</weight>
+                    <country>Германия</country>
+                    <vendor>Silfradent</vendor>                 
+                    <count>12</count>
+                    <document>https://www.rolanddg.eu/-/media/roland-emea/dne/brochure/,-w-,dgn-brochure/dental/dwx-52dci-brochure-en.pdf</document>
+                    <param name="Напряжение" unit="В">220</param>
+                    <param name="Частота" unit="Гц">50 / 60</param>
+                    <param name="Мощность" unit="Вт">150</param>
+                    <param name="Лампа галогенная" unit="Вт">12/15</param>
+                    <param>Цифровая контрольная панель в комплекте с микромотором</param>
+                    <param name="Давление сжатого воздуха" unit="бар">3-8</param>
+                    <description>
+                        <![CDATA[
+                            Прибор оснащен высокопрецизионным параллелометрическим штативом с основанием в виде гранитной плиты с пневмостоликом для фиксации моделей и мощным зуботехническим микромотором с цифровым управлением.
+                        ]]>
+                    </description>
+                    <description_full>
+                        <![CDATA[
+                            <p>Прибор оснащен высокопрецизионным параллелометрическим штативом с основанием в виде гранитной плиты с пневмостоликом для фиксации моделей и мощным зуботехническим микромотором с цифровым управлением. </p>
+                            <p>Имеет систему охлаждающего спрея, балку для постановки аттачменов, микрометр для заданного фрезерования в глубину, очень легкий в управлении.</p>
+                        ]]>
+                    </description_full>
+                </offer>
+                                
+            </offers>
+    </shop>
+</yml_catalog>
